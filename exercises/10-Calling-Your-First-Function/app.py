@@ -6,6 +6,6 @@ def my_main_code():
     # ✅ ↓ Your code here ↓ ✅
     number=45345
     result=is_odd(number)
-    return result
+    print(result)
 
 my_main_code()

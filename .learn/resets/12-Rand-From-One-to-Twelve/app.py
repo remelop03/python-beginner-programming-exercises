@@ -2,8 +2,7 @@ import random
 
 def get_randomInt():
 	# ✅↓ Write your code here ↓✅
-	r1=random.randrange(1,13)
-	return r1
+	return None
 
 # ❌ ↓ DON'T CHANGE THE CODE BELOW ↓ ❌
 print(get_randomInt())
