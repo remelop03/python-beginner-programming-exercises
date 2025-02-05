@@ -4,3 +4,8 @@ def is_odd(my_number):
 
 def my_main_code():
     # ✅ ↓ Your code here ↓ ✅
+    number=45345
+    result=is_odd(number)
+    return result
+
+my_main_code()
